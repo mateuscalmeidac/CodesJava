@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos desnecessários
+*.log
+*.class
